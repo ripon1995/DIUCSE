@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715855748104",
+    "firebase_url": "https://diucse-a4fb0.firebaseio.com",
+    "project_id": "diucse-a4fb0",
+    "storage_bucket": "diucse-a4fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715855748104:android:b022fc58cbe1fc75",
+        "android_client_info": {
+          "package_name": "com.example.diucse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715855748104-3g6396due018trgb9h65fkcf00ftld2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diucse",
+            "certificate_hash": "6e39acdfbbae080b16c14fc4520b580a05e44906"
+          }
+        },
+        {
+          "client_id": "715855748104-pubhgtrv2atkqlcnv4akkrqhqtom57vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC72JBn1sdauhsn2vgg7aqox88O1eCFls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715855748104-pubhgtrv2atkqlcnv4akkrqhqtom57vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
